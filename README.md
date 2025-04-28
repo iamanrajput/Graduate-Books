@@ -84,11 +84,11 @@ smartbookstore/
 
 ---
 
-## 📸 Screenshots
+```## 📸 Screenshots
 | Home Page | Book Details | Recommendations |
 | :---: | :---: | :---: |
 | ![Home Page](screenshots/home.png) | ![Book Details](screenshots/details.png) | ![Recommendations](screenshots/recommendations.png) |
-
+```
 ---
 
 ## 🎯 Future Scope
@@ -108,9 +108,9 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🤝 Contact
 For queries, feedback, or collaboration opportunities:
 
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/)
+- **Name**: [Aman Raj]
+- **Email**: [theamanrajput15@gmail.com]
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/theamanrajput)
 
 ---
 
