@@ -84,13 +84,14 @@ smartbookstore/
 
 ---
 
-```## 📸 Screenshots
+<!--
+## 📸 Screenshots
 | Home Page | Book Details | Recommendations |
 | :---: | :---: | :---: |
 | ![Home Page](screenshots/home.png) | ![Book Details](screenshots/details.png) | ![Recommendations](screenshots/recommendations.png) |
 ```
 ---
-
+-->
 ## 🎯 Future Scope
 - Mobile App (Android/iOS)
 - Integration with Google Books or Goodreads APIs
