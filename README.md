@@ -115,4 +115,3 @@ For queries, feedback, or collaboration opportunities:
 
 ---
 
-Would you also like a short `requirements.txt` and `LICENSE` file suggestion to make it a fully ready project? 🚀
